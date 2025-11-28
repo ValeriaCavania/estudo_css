@@ -13,4 +13,4 @@
 
 ### Valéria
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/valeria-cavania/)
+### Linkedin: https://www.linkedin.com/in/valeria-cavania/
