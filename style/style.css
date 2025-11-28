@@ -25,7 +25,7 @@ body{
 }
 .cabecalho__menu{
     display: flex;
-    gap: 5rem;
+    gap: 80px;
 }
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
@@ -40,11 +40,13 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
+
 }
 .apresentacao__conteudo{
     display: flex;
     flex-direction: column;
-    gap: 2.5rem;
+    gap: 40px;
     width: 50%;
 }
 .apresentacao__conteudo__titulo{
@@ -72,19 +74,19 @@ body{
     font-size: 1.25rem;
 }
 .apresentacao__links_subtitulo:hover{ /*eu que adicionei esse hover*/
-    border: 0.125rem solid var(--cor-terciaria);
-    border-radius: 0.5rem;
+    border: 2px solid var(--cor-terciaria);
+    border-radius: 8px;
 }
 .apresentacao__links__navegacao{
     display: flex;
     justify-content: center;
-    gap: 1rem;
-    border: 0.125rem solid var(--cor-terciaria);
+    gap: 16px;
+    border: 2px solid var(--cor-terciaria);
     width: 50%;
     text-align: center;
-    border-radius: 0.5rem;
+    border-radius: 8px;
     font-size: 1.5rem;
-    padding: 1.34rem 0px;
+    padding: 22px 0px;
     font-family: var(--fonte-secundaria);
     font-weight: 600;
     color: var(--cor-secundaria);
@@ -104,4 +106,26 @@ body{
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
+}
+
+@media(max-width: 1200px){
+    .cabecalho{
+        padding: 10%;
+    }
+    
+    .cabecalho__menu{
+        justify-content: center;
+    }
+    
+    
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo{
+        width: auto;
+    }
+
+    
 }
