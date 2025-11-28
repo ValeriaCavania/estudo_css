@@ -108,9 +108,9 @@ body{
     font-weight: 400;
 }
 
-@media(max-width: 1200px){
+@media(max-width: 834px){
     .cabecalho{
-        padding: 20%;
+        padding: 10%;
     }
     
     .cabecalho__menu{
