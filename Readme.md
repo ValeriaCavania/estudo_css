@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portifólio.
 
 ![image](https://github.com/ValeriaCavania/estudo_css/blob/main/assets/img.png)
 
