@@ -1,18 +1,19 @@
-# Olá, Bem vindo ao meu projeto de portifólio.
+# 💼 Portfólio — Estudo de CSS
 
-![image](https://github.com/ValeriaCavania/estudo_css/blob/main/assets/img.png)
+## 📝 Sobre o projeto
+Projeto desenvolvido utilizando **HTML e CSS** com o objetivo de criar um **portfólio pessoal**, estruturado como um **currículo**, apresentando informações e experiências da desenvolvedora.
 
-## Ferramentas utilizadas:
+Este projeto foi criado para fins de **estudo e prática de estilização**, layout e organização de conteúdo com CSS.
 
-* HTML
+## 🛠 Tecnologias utilizadas
+- HTML5
+- CSS3
 
-* CSS
+## 🔗 Acesso ao projeto
+**[Portifolio](https://valeriacavania.github.io/estudo_css/)**
 
-* Flex-box
 
-## Feito por:
+## 👩‍💻 Desenvolvedora
+[<img loading="lazy" src="https://github.com/user-attachments/assets/b10dd452-cccf-4518-bd5f-8d4200c39a60" width=250><br><sub>Valéria</sub>](https://github.com/ValeriaCavania)
 
-### Valéria
-
-### Linkedin: https://www.linkedin.com/in/valeria-cavania/
-
+✨ Projeto desenvolvido para fins de estudo e prática de HTML e CSS.
